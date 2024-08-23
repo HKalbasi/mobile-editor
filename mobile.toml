@@ -1,0 +1,5 @@
+[app]
+name = "mobile-editor"
+stylized-name = "Mobile Editor"
+identifier = "example.com"
+template-pack = "egui"
